@@ -9,11 +9,12 @@
 - ⚡ Fun fact: I'm also a hip hop dancer since 2005 --> watch me dancing [@saybou](https://www.instagram.com/saybou/)
 - 🫶🏻 : 🎬 🌍 👨🏼‍💻 🕺🏼
 
-[![saybou's GitHub stats](https://github-readme-stats-saybou.vercel.app/api?username=saybou&show_icons=true&theme=algolia)](https://github.com/saybou)
+[![saybou's GitHub stats](https://github-readme-stats-saybous-projects.vercel.app/api?username=saybou&show_icons=true&theme=algolia)](https://github.com/saybou)
 
 ## 🔭 Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saybou&repo=serverless-demo&theme=algolia)](https://github.com/saybou/serverless-demo)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saybou&repo=serverless-typescript-aws&theme=algolia)](https://github.com/saybou/serverless-typescript-aws)
 
 ## 📚 Articles
